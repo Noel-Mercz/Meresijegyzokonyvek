@@ -197,6 +197,7 @@
 <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/its_snapshot_0004.bmp" />
 
 <br />
+
 <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/its_snapshot_0003.bmp" />
 
 <br />
@@ -210,8 +211,6 @@
 <br />
 
 <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/its_snapshot_0007.bmp" />
-
-<br />
 
 </details>
 
