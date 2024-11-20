@@ -56,9 +56,7 @@ Feladata, hogy egy antenna segítségével először befogjuk az **Avasi adó to
 
 ---
 
-## 4. Blokkvázlat
-
-![image](image/Blokvazlat_1.PNG)
+## 4. Alkalmazott mérőeszközök használata
 
 - **Opticum Smart HD 550 Antenna**: az RF jelek vételére
 - **Johansson 6700 Profiler**: az RF jelek erősítésére és szűrésére
@@ -140,8 +138,7 @@ A mérés során az alábbi problémák észlelhetők:
 
 ## 12. Jelerősség diagramok
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/1_freki_dbuv.JPG"/>
-<img src="https://erosbence27.github.io/jegyzokonyv/image/2_freki_dbuv.JPG"/>
+Később lesz!!!!!!!!!!!!!!!
 
 ---
 
@@ -166,17 +163,17 @@ Az összesített mérések és következtetések alapján a **Johansson 6700 Pro
 <br>
 
 ## Bejövő jelszintek.
-<img src="https://github.com/Noel-Mercz/Meresijegyzokonyvek/blob/main/bejovojelekjo.png"/>
+<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/07_Meres/kepek/bejovojelekjo.png"/>
 
 <br>
 
 ## Kimenő jelszintek.
-<img src="https://github.com/Noel-Mercz/Meresijegyzokonyvek/blob/main/kimenojelszintek.png"/>
+<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/07_Meres/kepek/kimenojelszintek.png"/>
 
 <br>
 
 ## Sorba rendezett csatornák.
-<img src="https://github.com/Noel-Mercz/Meresijegyzokonyvek/blob/main/aliottch.png"/>
+<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/07_Meres/kepek/aliottch.png"/>
 
 <br>
 
