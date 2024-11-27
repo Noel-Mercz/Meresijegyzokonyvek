@@ -1,10 +1,10 @@
 
 <h1 id="mérési-jegyzőkönyv">MÉRÉSI JEGYZŐKÖNYV</h1>
 
-<p><strong>A mérést végző neve:</strong> Erős Bence<br />
+<p><strong>A mérést végző neve:</strong> Mercz Noel<br />
 <strong>A mérés tárgya:</strong> Antennák teljesítményének és jelminőségének összehasonlítása<br />
 <strong>A mérés száma:</strong> 4. mérés<br />
-<strong>A mérés dátuma:</strong> 2024. 10. 14<br />
+<strong>A mérés dátuma:</strong> 2024.10.27.<br />
 <strong>A mérést vezette:</strong> Sándor Péter</p>
 
 <p><strong>Évfolyam:</strong> 13. E<br />
@@ -167,6 +167,8 @@
 <h2 id="8-grafikus-ábrázolás">8. Grafikus ábrázolás</h2>
 <p>A jelszint és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:</p>
 
+
+KÉSŐBB BÁCSI MEGCSINÁLJA
 <p><img src="kep" /></p>
 
 <hr />
