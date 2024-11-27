@@ -265,11 +265,9 @@ KÉSŐBB BÁCSI ÁLTAL
     </li>
 </ul>
 
-
 <hr />
 
-
-<h2 id="11-mért-képek">11. Mért Képek</h2>
+<h2 id="10-mért-képek">10. Mért Képek</h2>
 
 <details>
 <summary>Kattins a részletekért</summary>
