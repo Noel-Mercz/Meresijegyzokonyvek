@@ -4,22 +4,19 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="/jegyzokonyv/assets/css/style.css?v=7aed04b2b691e08d82de1a638a6b46bc42986067">
-</head>
+    <link rel="stylesheet" type="text/css" media="screen" href="/jegyzokonyv/assets/css/style.css?v=fd8824f5d621979eab4af03bf6a18efe7538639e">
 
-
-
-
+  </head>
 
   <body>
-
 
 <h1 id="mérési-jegyzőkönyv">MÉRÉSI JEGYZŐKÖNYV</h1>
 
 <p><strong>A mérést végző neve:</strong> Mercz Noel<br />
-<strong>A mérés tárgya:</strong> Bitsebesség vs jelminőség mérés<br />
-<strong>A mérés száma:</strong> 05. mérés<br />
-<strong>A mérés dátuma:</strong> 2024.11.20.<br />
+<strong>A mérés tárgya:</strong> Frekvencia vs. Moduláció mérés</p>
+
+<p><strong>A mérés száma:</strong> 4. mérés<br />
+<strong>A mérés dátuma:</strong> 2024. 11. 20.<br />
 <strong>A mérést vezette:</strong> Sándor Péter</p>
 
 <p><strong>Évfolyam:</strong> 13. E<br />
@@ -30,12 +27,12 @@
 
 <h1 id="mérési-jegyzőkönyv-1">Mérési Jegyzőkönyv</h1>
 
-<h3 id="1-mérési-feladat">1. Mérési feladat</h3>
-<p>Ismerkedés a <strong>Johansson 8202 DVB-T modulátor</strong> képességeivel, valamint a bitsebesség és jelminőség vizsgálata. A célunk a műszer alapos megismerése volt.</p>
+<h2 id="1-mérés-célja">1. Mérés Célja</h2>
+<p>A mérés célja a <strong>Johansson 8202 DVB-T modulátor</strong> működésének megismerése, konfigurációjának tesztelése, valamint a METEK HD spektrum- és jelszintanalizátor használatával a modulátor által generált jel paramétereinek mérése. A mért paraméterek: <strong>jelszint</strong>, <strong>bitsebesség</strong>, <strong>MER (Modulation Error Rate)</strong>.</p>
 
 <hr />
 
-<h3 id="2-alkalmazott-mérőeszközök-és-készülékek">2. Alkalmazott mérőeszközök és készülékek</h3>
+<h2 id="2-használt-eszközök">2. Használt Eszközök</h2>
 
 <table>
   <thead>
@@ -66,155 +63,250 @@
 
 <hr />
 
-<h3 id="3-előkészületek">3. Előkészületek</h3>
-<p>A mérés során a két Johansson 8202 DVB-T modulátort összekötöttük, majd az egyik modulátor <strong>RF-out</strong> pontját csatlakoztattuk a spektrumanalizátorhoz. Az eszközök megfelelő beállítását követően megkezdtük a mérést.</p>
+<h2 id="3-beállítások">3. Beállítások</h2>
+<ul>
+  <li><strong>Frekvencia</strong>: 474 MHz</li>
+  <li><strong>Sávszélesség</strong>: 8 MHz</li>
+  <li><strong>Modulációs típusok tesztelése</strong>:
+    <ul>
+      <li>QPSK</li>
+      <li>16QAM</li>
+      <li>64QAM</li>
+    </ul>
+  </li>
+</ul>
 
 <hr />
 
-<h3 id="4-mért-adatok---tv2-erős-és-tv1-pongo">4. Mért Adatok - TV2 és TV1 </h3>
-<p>A következő paramétereket olvastuk le a spektrumanalizátorról és a modulátor kijelzőjéről:</p>
+<h2 id="4-mérési-eredmények">4. Mérési Eredmények</h2>
+<p>Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző modulációs beállítások mellett.</p>
 
 <table>
   <thead>
     <tr>
-      <th>Paraméter</th>
-      <th>TV2 10Mb/s</th>
-      <th>TV2 21.5Mb/s</th>
-      <th>TV1 15Mb/s</th>
+      <th><strong>Moduláció</strong></th>
+      <th><strong>Jelszint [dBm]</strong></th>
+      <th><strong>Bitsebesség [Mbps]</strong></th>
+      <th><strong>MER [dB]</strong></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>MER</td>
-      <td>31.2 dB</td>
-      <td>30.7 dB</td>
-      <td>36.4 dB</td>
+      <td>QPSK</td>
+      <td>-19.2 dBm</td>
+      <td>3.2 - 3.9 Mbps</td>
+      <td>39.7 dB</td>
     </tr>
     <tr>
-      <td>Packet Errors</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>16QAM</td>
+      <td>-30.1 dBm</td>
+      <td>7.5 - 9.1 Mbps</td>
+      <td>33.2 dB</td>
     </tr>
     <tr>
-      <td>Noise Margin</td>
-      <td>18.4</td>
-      <td>20.6</td>
-      <td>19.7</td>
-    </tr>
-    <tr>
-      <td>Power</td>
-      <td>-30.8 dBm</td>
-      <td>-33.6 dBm</td>
-      <td>-34.2 dBm</td>
-    </tr>
-    <tr>
-      <td>Bitsebesség</td>
-      <td>~11 Mb/s</td>
-      <td>~18 Mb/s</td>
-      <td>~12 Mb/s</td>
+      <td>64QAM</td>
+      <td>-30.5 dBm</td>
+      <td>11.4 - 13.9 Mbps</td>
+      <td>35.5 dB</td>
     </tr>
   </tbody>
 </table>
 
 <hr />
 
-<h3 id="5-mérési-eljárás">5. Mérési eljárás</h3>
+<h2 id="5-lépések">5. Lépések</h2>
 <ol>
-  <li>A mérőeszközök megfelelően lettek összekapcsolva és kalibrálva a mérés előtt.</li>
-  <li>A Johansson 8202 DVB-T modulátor különböző bitsebességeken tesztelve lett a jelminőség mérése céljából.</li>
-  <li>A jelanalizátorral minden beállításhoz tartozó jelminőség mérését elvégeztük.</li>
+  <li><strong>Modulátor konfigurációja</strong>:
+    <ul>
+      <li>A Johansson 8202 DVB-T modulátoron beállítottuk a kívánt frekvenciát (474 MHz) és a sávszélességet (8 MHz).</li>
+      <li>A modulációs típusokat egyesével módosítottuk: QPSK, 16QAM, 64QAM.</li>
+    </ul>
+  </li>
+  <li><strong>Jel vizsgálata METEK HD analizátorral</strong>:
+    <ul>
+      <li>Az RF kábellel csatlakoztattuk a METEK HD spektrum/jelszint analizátort a modulátor kimenetéhez.</li>
+      <li>Minden egyes modulációs típus esetén elvégeztük a jelszint, bitsebesség és MER mérést.</li>
+    </ul>
+  </li>
 </ol>
 
 <hr />
 
-<h3 id="6-következtetés">6. Következtetés</h3>
+<h2 id="6-következtetések">6. Következtetések</h2>
 <ul>
-  <li>
-    <p>A mérések során megismertük a <strong>Johansson 8202 DVB-T modulátor</strong> alapvető képességeit, és pontos adatokat kaptunk a bitsebességről és jelminőségről. A mérési eredmények alapján a modulátor megfelelő teljesítményt nyújtott, és a jelszint, bitsebesség, valamint a MER értékek a várakozásoknak megfelelően alakultak.</p>
-  </li>
-  <li>
-    <p>Azonnal láthatóvá válik, hogy a TV1 magasabb bitsebességgel és erősebb teljesítménnyel dolgozik, míg a TV2 jobb MER értékkel bír.</p>
-  </li>
-  <li>
-    <p>A mérések alapján megfigyelhető, hogy a bitsebesség növekedésével a jelminőség fokozatosan csökkent. A legmagasabb jelminőséget alacsony bitsebességnél értük el, ahol a zaj mértéke még elfogadható szinten maradt. Az eredmények alapján javasolható, hogy nagyobb stabilitás érdekében a rendszer optimális működése alacsonyabb bitsebességeken biztosított.</p>
-  </li>
+  <li>A mérés során megfigyelhető volt, hogy a moduláció típusának növelésével (QPSK → 64QAM) a bitsebesség jelentősen nőtt, miközben a <strong>MER érték</strong> változásai nem mutattak egyértelmű tendenciát.</li>
+  <li>A mérések a DVB-T elméleti követelményeinek megfelelő eredményeket adtak.</li>
 </ul>
 
 <hr />
 
-<h4 id="7-további-mérések-javaslata">7. További mérések javaslata:</h4>
-<ol>
-  <li><strong>Jelminőség mérése különböző antennák használatával</strong>: Érdemes tesztelni, hogy különböző antennák milyen hatással vannak a jelminőségre azonos bitsebességen.</li>
-  <li><strong>Zajforrások közelségének hatása a jelminőségre</strong>: Vizsgáljuk meg, hogyan befolyásolják a közelben található elektromos zajforrások a mérési eredményeket.</li>
-  <li><strong>Hőmérséklet és környezeti feltételek hatása</strong>: Érdemes a méréseket különböző környezeti feltételek mellett (pl. hőmérséklet-ingadozás) is elvégezni, hogy megismerjük, hogyan változik a jelminőség extrém körülmények között.</li>
-  <li><strong>Többcsatornás mérések</strong>: Különböző frekvenciákon is végezzünk méréseket, hogy lássuk, a bitsebesség és a jelminőség miként viszonyul az eltérő csatornákhoz.</li>
-</ol>
+<h2 id="7-megjegyzések">7. Megjegyzések</h2>
+<ul>
+  <li>A méréseket stabil környezeti feltételek mellett végeztük, zavarforrásoktól mentes helyiségben.</li>
+  <li>Az adatok alapján a különböző modulációs technikák közötti különbségek jól megfigyelhetőek voltak.</li>
+</ul>
 
 <hr />
 
-<h3 id="8-felhasznált-források">8. Felhasznált Források</h3>
-<ol>
-  <li><strong>Johansson 8202 DVB-T modulátor felhasználói kézikönyv</strong> - A modulátor alapvető képességeinek és beállításainak megismeréséhez használtuk.</li>
-  <li><strong>Digitális jeltovábbítás és zajszint tanulmányok</strong> - A digitális jelek bitsebesség és jelminőség közötti összefüggéseiről szóló tudományos anyagok segítettek a mért eredmények elemzésében.</li>
-  <li><strong>Spectrum Analyzer működési útmutató</strong> - A jelminőség és a zajszint mérésére használt analizátor beállításához és pontos használatához alapvető forrás.</li>
-</ol>
+<h2 id="8-további-mérési-javaslatok">8. További Mérési Javaslatok</h2>
+
+<details>   
+
+<summary>Kattins a részletekért</summary>   
+
+<h1>Mérési Javaslatok</h1>
+
+    <h2>1. Szélsőséges Jelszint Tesztelése</h2>
+    <ul>
+        <li><strong>Cél:</strong> Vizsgálni, hogyan viselkedik a rendszer különböző jelszint értékek mellett.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Állítsuk be a jelszintet az RF kimeneten szélsőségesen alacsony és magas értékekre (pl. -60 dBm, -20 dBm).</li>
+                <li>Mérjük meg a bitsebességet és a MER-t a kiválasztott modulációs típusok mellett.</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> Magasabb jelszintnél stabilabb adatátvitel, alacsonyabb jelszintnél romló MER és csökkenő bitsebesség.</li>
+    </ul>
+
+    <hr />
+
+    <h2>2. Szűkebb és Szélesebb Sávszélesség Hatásai</h2>
+    <ul>
+        <li><strong>Cél:</strong> Megvizsgálni a sávszélesség változtatásának hatását a jel minőségére és teljesítményére.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Állítsuk be a sávszélességet különböző értékekre (pl. 6 MHz, 7 MHz, 8 MHz).</li>
+                <li>Rögzítsük a jelszintet, MER-t és a bitsebességet.</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> Szélesebb sávszélességnél nagyobb bitsebesség, de csökkenhet a MER.</li>
+    </ul>
+
+    <hr />
+
+    <h2>3. Zavarforrások Hatása</h2>
+    <ul>
+        <li><strong>Cél:</strong> Meghatározni, hogy a közeli rádiófrekvenciás zavarok hogyan befolyásolják a jelek minőségét.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Helyezzünk egy zavarforrást (pl. másik RF jeladó) a vizsgált frekvencia közelébe.</li>
+                <li>Mérjük meg a jelszintet, MER-t és a bitsebességet különböző távolságokból.</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> Zavarforrás jelenléte csökkentheti a MER-t és növelheti a hibaarányt.</li>
+    </ul>
+
+    <hr />
+
+    <h2>4. Moduláció Stabilitásának Vizsgálata Időfüggvényében</h2>
+    <ul>
+        <li><strong>Cél:</strong> Tesztelni, hogy hosszabb időtartam alatt mennyire stabil a jel különböző modulációs típusok esetén.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Állítsuk be az eszközt egy modulációs típusra (pl. 64QAM).</li>
+                <li>Mérjünk jelszintet, MER-t és bitsebességet óránként legalább 12 órán keresztül.</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> Stabil rendszer esetén a paramétereknek változatlannak kell maradniuk.</li>
+    </ul>
+
+    <hr />
+
+    <h2>5. Szomszédos Csatornák Vizsgálata</h2>
+    <ul>
+        <li><strong>Cél:</strong> Megérteni, hogyan befolyásolja a szomszédos csatornák jelenléte a méréseket.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Aktiváljunk egy szomszédos csatornán (pl. 482 MHz vagy 498 MHz) másik DVB-T jelet.</li>
+                <li>Mérjük meg a főcsatorna (490 MHz) paramétereit.</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> Növekvő interferencia esetén csökkenhet a MER és romolhat a jel minősége.</li>
+    </ul>
+
+    <hr />
+
+    <h2>6. Jelkésleltetés Vizsgálata</h2>
+    <ul>
+        <li><strong>Cél:</strong> Ellenőrizni a rendszer válaszidejét különböző beállítások mellett.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Állítsunk be eltérő modulációkat és sávszélességeket.</li>
+                <li>Mérjük meg a jelkésleltetést (pl. speciális analizátorral vagy műszerekkel).</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> A sávszélesség és moduláció változtatása hatással lehet a késleltetésre.</li>
+    </ul>
+
+    <hr />
+
+    <h2>7. Hőmérséklet Hatásának Vizsgálata</h2>
+    <ul>
+        <li><strong>Cél:</strong> Megérteni, hogyan befolyásolja a környezeti hőmérséklet a rendszer teljesítményét.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Végezze el a méréseket különböző hőmérsékleteken (pl. 0°C, 25°C, 30°C).</li>
+                <li>Rögzítse a jelszint, MER és bitsebesség értékeket.</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> Szélsőséges hőmérsékleteken csökkenhet a rendszer stabilitása.</li>
+    </ul>  
+
+</details>
+
+<p><br /></p>
 
 <hr />
 
-<h3 id="9-magyarázatok-és-lábtanulmányok">9. Magyarázatok és Lábtanulmányok</h3>
-<ol>
-  <li><strong>Bitsebesség és Jelminőség</strong>: A bitsebesség (Mbps) a másodpercenként átvitt adatbitek számát jelenti. A magasabb bitsebesség gyakran a jelminőség csökkenéséhez vezethet, mivel nagyobb adatforgalmat kell kezelnie az átviteli eszközöknek. A jelminőség (SNR, Signal-to-Noise Ratio, dB-ben mérve) azt mutatja meg, hogy a jelszint mekkora a zajszinthez képest. A magasabb SNR jobb jelminőséget jelent.</li>
-  <li><strong>Moduláció és DVB-T technológia</strong>: A DVB-T modulátor, mint a Johansson 8202, alapvetően a digitális földfelszíni sugárzás szabványát követi. Ez a modulátor képes különböző bitsebességek és jelszintek beállítására, ami lehetővé teszi a különféle átviteli környezetekhez való alkalmazkodást.</li>
-  <li><strong>Jelminőség mérésének jelentősége</strong>: A zajszint mérésével meghatározhatjuk, milyen hatékonyan tudja az adott rendszer átvinni az információt interferencia és más zavaró tényezők mellett. A vizsgálat célja, hogy megtaláljuk a jelminőség és bitsebesség optimális kombinációját, amely a legjobb jeltovábbítást biztosítja adott körülmények között.</li>
-</ol>
+<h2 id="9-diagramm">9. Diagramm</h2>
+<ul>
+  <li>Mérési jegyzőkönyv grafikon: 
+#### KÉSŐBB BÁCSI ÁLTAL
+</ul>
 
 <hr />
 
-<h3 id="10-záró-összegzés">10. Záró Összegzés</h3>
-<p>A jegyzőkönyvben végrehajtott mérés a Johansson 8202 DVB-T modulátor különböző bitsebességek melletti jelminőség-vizsgálatára irányult. Az eredmények alapján világossá vált, hogy a magasabb bitsebesség kedvezőtlenül hat a jelminőségre, amit a zajszint (SNR) csökkenése mutatott. A tesztelt bitsebességek között a 10 Mbps körüli érték biztosította a legjobb egyensúlyt a jelminőség és a sebesség között, ami elfogadható teljesítményt eredményezett.</p>
-
-<p>További mérésekkel, például különböző antennák tesztelésével, zajforrások hatásának vizsgálatával, illetve eltérő környezeti körülmények figyelembevételével még jobban feltérképezhetjük a bitsebesség és jelminőség közötti kapcsolatot. A jegyzőkönyv összességében értékes betekintést nyújt a DVB-T technológia alapvető működésébe és az optimális beállítások megtalálásához vezető út első lépéseibe.</p>
+<h2 id="10-záró-összegzés">10. Záró Összegzés</h2>
 
 <hr />
 
-<h2 id="11-mért-képek">11. Mért Képek:</h2>
+<h2 id="11-mért-képek">11. Mért Képek</h2>
+
 <details>
 <summary>Kattins a részletekért</summary>
 
 <br />
 
-<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/its_snapshot_0001.bmp" />
+<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/kep1.bmp" />
 
 <br />
 
-<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/its_snapshot_0002.bmp" />
+<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/kep2.bmp" />
 
 <br />
 
-<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/its_snapshot_0004.bmp" />
+<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/kep3.bmp" />
 
 <br />
 
-<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/its_snapshot_0003.bmp" />
+<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/kep4.bmp" />
 
 <br />
 
-<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/its_snapshot_0005.bmp" />
+<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/kep5.bmp" />
 
 <br />
 
-<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/its_snapshot_0006.bmp" />
+<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/kep6.bmp" />
 
 <br />
 
-<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/04_meres/kepek/its_snapshot_0007.bmp" />
 
 </details>
 
 <p><strong>Aláírás:</strong> Mercz Noel</p>
 
-<p><strong>Dátum:</strong> 2024.11.20.</p>
+<p><strong>Dátum:</strong> 2024. 11. 20.</p>
 
   </body>
 </html>
