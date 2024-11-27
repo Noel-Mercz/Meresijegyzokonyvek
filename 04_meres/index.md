@@ -261,8 +261,10 @@
 <h2 id="9-diagramm">9. Diagramm</h2>
 <ul>
   <li>Mérési jegyzőkönyv grafikon: 
-#### KÉSŐBB BÁCSI ÁLTAL
+KÉSŐBB BÁCSI ÁLTAL
 </ul>
+
+</li>
 
 <hr />
 
@@ -307,6 +309,3 @@
 <p><strong>Aláírás:</strong> Mercz Noel</p>
 
 <p><strong>Dátum:</strong> 2024. 11. 20.</p>
-
-  </body>
-</html>
