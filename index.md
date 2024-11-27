@@ -8,6 +8,10 @@
 
 <br />
 
+[06 mérés jegyzőkönyve](https://noel-mercz.github.io/Meresijegyzokonyvek/06_meres)
+
+<br />
+
 [07 mérés jegyzőkönyve](https://noel-mercz.github.io/Meresijegyzokonyvek/07_Meres)
 
 <br />
