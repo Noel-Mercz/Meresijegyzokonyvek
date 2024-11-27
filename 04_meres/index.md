@@ -268,9 +268,6 @@ KÉSŐBB BÁCSI ÁLTAL
 
 <hr />
 
-<h2 id="10-záró-összegzés">10. Záró Összegzés</h2>
-
-<hr />
 
 <h2 id="11-mért-képek">11. Mért Képek</h2>
 
