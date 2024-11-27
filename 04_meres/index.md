@@ -262,9 +262,9 @@
 <ul>
   <li>Mérési jegyzőkönyv grafikon: 
 KÉSŐBB BÁCSI ÁLTAL
+    </li>
 </ul>
 
-</li>
 
 <hr />
 
