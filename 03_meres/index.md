@@ -71,10 +71,6 @@
 
 ---
 
-</details>
-
-<p><br /></p>
-
 **Miskolc Kandó Kálmán 3. emelet | Iskra P20 LOGPER**
     <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
     <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
@@ -95,12 +91,6 @@
     <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
 
 ---
-
-</details>
-
-<p><br /></p>
-<details>
-<summary>Kattins a részletekért</summary>
 
 **Miskolc Kandó Kálmán 3. emelet | Iskra P2845**
     <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
