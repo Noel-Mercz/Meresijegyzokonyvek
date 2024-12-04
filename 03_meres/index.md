@@ -50,17 +50,17 @@
 <summary>Kattins a részletekért</summary>
 
 **Miskolc Kandó Kálmán 3. emelet | Ikusi Flash HD C48**
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Emelet/its_snapshot_0015.jpg" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Emelet/its_snapshot_0016.jpg" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Emelet/its_snapshot_0017.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/03_meres/Ikushi/Emelet/its_snapshot_0015.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/03_meres/Ikushi/Emelet/its_snapshot_0016.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/03_meres/Ikushi/Emelet/its_snapshot_0017.jpg" />
 
 
 ---
 
 **Miskolc Kandó Kálmán Udvar | Ikusi Flash HD C48**
     <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/03_meres/Ikushi/Udvar/its_snapshot_0024.jpg" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Udvar/its_snapshot_0025.jpg" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Udvar/its_snapshot_0026.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/03_meres/Ikushi/Udvar/its_snapshot_0025.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/03_meres/Ikushi/Udvar/its_snapshot_0026.jpg" />
 
 ---
 
