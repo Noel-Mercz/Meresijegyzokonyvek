@@ -50,66 +50,65 @@
 <summary>Kattins a részletekért</summary>
 
 **Miskolc Kandó Kálmán 3. emelet | Ikusi Flash HD C48**
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Emelet/its_snapshot_0015.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Emelet/its_snapshot_0016.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Emelet/its_snapshot_0017.jpg" />
 
 
 ---
 
 **Miskolc Kandó Kálmán Udvar | Ikusi Flash HD C48**
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Udvar/its_snapshot_0024.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Udvar/its_snapshot_0025.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Udvar/its_snapshot_0026.jpg" />
 
 ---
 
 **Miskolc Kand Kálmán Földszint | Ikusi Flash HD C48**
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Folyosó/its_snapshot_0033.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Folyosó/its_snapshot_0034.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/Ikushi/Folyosó/its_snapshot_0035.jpg" />
 
 ---
 
 **Miskolc Kandó Kálmán 3. emelet | Iskra P20 LOGPER**
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P20 (kicsi)/Emelet/its_snapshot_0021.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P20 (kicsi)/Emelet/its_snapshot_0022.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P20 (kicsi)/Emelet/its_snapshot_0023.jpg" />
 
 ---
 
 **Miskolc Kandó Kálmán Udvar | Iskra P20 LOGPER**
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P20 (kicsi)/Udvar/its_snapshot_0030.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P20 (kicsi)/Udvar/its_snapshot_0031.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P20 (kicsi)/Udvar/its_snapshot_0032.jpg" />
 
 ---
 
 **Miskolc Kand Kálmán Földszint | Iskra P20 LOGPER**
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P20 (kicsi)/Folyosó/its_snapshot_0040.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P20 (kicsi)/Folyosó/its_snapshot_0041.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P20 (kicsi)/Folyosó/its_snapshot_0042.jpg" />
 
 ---
 
 **Miskolc Kandó Kálmán 3. emelet | Iskra P2845**
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P2845 (kozepso)/Emelet/its_snapshot_0018.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P2845 (kozepso)/Emelet/its_snapshot_0019.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P2845 (kozepso)/Emelet/its_snapshot_0020.jpg" />
 ---
 
 **Miskolc Kandó Kálmán Udvar | Iskra P2845**
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P2845 (kozepso)/Udvar/its_snapshot_0027.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P2845 (kozepso)/Udvar/its_snapshot_0028.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P2845 (kozepso)/Udvar/its_snapshot_0029.jpg" />
 
 ---
 
 **Miskolc Kand Kálmán Földszint | Iskra P2845**
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P2845 (kozepso)/Folyosó/its_snapshot_0036.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P2845 (kozepso)/Folyosó/its_snapshot_0037.jpg" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/P2845 (kozepso)/Folyosó/its_snapshot_0038.jpg" />
 
 
 
