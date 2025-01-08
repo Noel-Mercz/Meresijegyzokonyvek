@@ -68,6 +68,7 @@ Az alábbi táblázat tartalmazza az értékeket, amelyek a mérés során lette
 
 
 **Grafikus ábrázolás**
+<br />
 <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/tranzisztor_meres/img/graf.PNG" />
 
 ---
