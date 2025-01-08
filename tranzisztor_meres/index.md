@@ -18,11 +18,12 @@ A transzisztor bázis-emitter feszültségének (Ube), a kollektor ellenállás 
 ---
 
 **5. Használt eszközök:**
-- 1 db NPN transzisztor
+- 1 db NPN transzisztor (BC639)
 - Ellenállások: 1.5 kΩ és 220 Ω
-- Áramforrás: +5 V
-- Multiméter a feszültség- és áramértékek méréséhez
+- Áramforrás: +5 V (NI MyDaq)
+- Multiméter (METEX M3-800)
 - Csatlakozók, vezetékek
+- Piros Led
 
 **6. Kapcsolási rajz:**
 (Lásd a feltöltött képet, amelyen a kapcsolás ábrája látható.)
@@ -62,7 +63,7 @@ Az alábbi táblázat tartalmazza az értékeket, amelyek a mérés során lette
 | 2,4     | 2,59    | 11,72727     |
 | 2,5     | 2,59    | 11,72727     |
 
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/tranzisztor_meres/img/grafPNG/">
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/tranzisztor_meres/img/graf.PNG/">
 
 ---
 
