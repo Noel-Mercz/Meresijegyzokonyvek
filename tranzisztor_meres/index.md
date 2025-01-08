@@ -25,6 +25,8 @@ A transzisztor bázis-emitter feszültségének (Ube), a kollektor ellenállás 
 - Csatlakozók, vezetékek
 - Piros Led
 
+---
+
 **6. Kapcsolási rajz:**
 <br />
 <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/tranzisztor_meres/img/almafa.PNG" />
