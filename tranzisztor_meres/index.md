@@ -62,7 +62,7 @@ Az alábbi táblázat tartalmazza az értékeket, amelyek a mérés során lette
 | 2,4     | 2,59    | 11,72727     |
 | 2,5     | 2,59    | 11,72727     |
 
-    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/tranzisztor_meres/img/grafPNG/" />
+    <img src="https://noel-mercz.github.io/Meresijegyzokonyvek/tranzisztor_meres/img/grafPNG/">
 
 ---
 
