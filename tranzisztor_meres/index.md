@@ -26,7 +26,7 @@ A transzisztor bázis-emitter feszültségének (Ube), a kollektor ellenállás 
 - Piros Led
 
 **6. Kapcsolási rajz:**
-(Lásd a feltöltött képet, amelyen a kapcsolás ábrája látható.)
+<img src="https://noel-mercz.github.io/Meresijegyzokonyvek/tranzisztor_meres/img/almafa.PNG" />
 
 **Kapcsolási elemek leírása:**
 A bemeneti jel a bázisra érkezik egy 1.5 kΩ-ellenálláson keresztül, amely beállítja a bázis-emitter feszültséget. A kollektor-körben egy 220 Ω-os ellenállás biztosítja a kollektoráram korlátozását.
