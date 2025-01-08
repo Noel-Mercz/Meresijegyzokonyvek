@@ -21,3 +21,5 @@
 [07 mérés jegyzőkönyve](https://noel-mercz.github.io/Meresijegyzokonyvek/07_Meres)
 
 <br />
+
+[Transzitor mérés jegyzőnöyve](https://noel-mercz.github.io/Meresijegyzokonyvek/tranzisztor_meres)
