@@ -37,8 +37,11 @@
   - **Bit Error Rate (BER):** [Érték]
   - **Modulation Error Ratio (MER):** [dB]
   - **Csillapítás:** [dB]
-  - **Lock állapot:** [ ] Igen [ ] Nem
+  - **Lock állapot:** [ X ] Igen
 - **Időjárási körülmények:**
+
+
+
   - **Hőmérséklet:** 0 °C
   - **Szélsebesség:** 5 km/h
   - **Egyéb megjegyzések:** 90% páratartalom
@@ -49,19 +52,19 @@
 - **Jel osztása a fejállomás bemeneteire:**
   - **Multiplexek hozzárendelése:** Igen
 
-            - Multiplex D - 1 port
+            - Multiplex B - 2 port
 
-            - Multiplex A - 2 port
+            - Multiplex A - 1 port
 
-            - Multiplex E - 7 port
+            - Multiplex E - 8 port
 
-            - Miskolc városi tv - 8 port
+            - Miskolc városi tv - 7 port
   - **DVB-T jel IP streamre konvertálása:** Igen
-- **Multicast IP tartomány:** [239.x.x.x]
+- **Multicast IP tartomány:** 239.1.1.1 - 239.1.1.40.
 - **IPTV Set-top box beállításai:**
-  - **Hálózati kapcsolat:** [Beállítva/Nincs beállítva]
-  - **Multicast IP címek hozzáadva:** [Igen/Nem]
-  - **Csatornakeresés eredménye:** [Sikeres/Sikertelen]
+  - **Hálózati kapcsolat:** Beállítva
+  - **Multicast IP címek hozzáadva:** Igen
+  - **Csatornakeresés eredménye:** Sikeres
 
 ---
 
