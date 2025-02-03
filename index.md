@@ -22,7 +22,7 @@
 
 <br />
 
-[Transzitor mérés jegyzőnöyve](https://noel-mercz.github.io/Meresijegyzokonyvek/tranzisztor_meres)
+[Tranzisztor mérés jegyzőnöyve](https://noel-mercz.github.io/Meresijegyzokonyvek/tranzisztor_meres)
 
 <br />
 
