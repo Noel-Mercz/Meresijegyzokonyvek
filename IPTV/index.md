@@ -11,10 +11,10 @@
 ---
 
 ## 1. Szükséges eszközök
-- **Antenna:** Beltéri | Iskra P2845 Logper
+- **Antenna:** Beltéri - Iskra P2845 Logper
 - **Fejállomás:** LEMCO SCL-824CT
 - **Set-top box:** MAG IPTV
-- **Hálózati eszközök:** Switch | HP 2312 procurve
+- **Hálózati eszközök:** Switch - HP 2312 procurve
 - **Mérőműszer:** METEK HDD 240003 digitális TV jelmérő
 - **Kábelezés:** Koaxiális és UTP kábelek
 - **Egyéb szerelési eszközök:** Csavarhúzó, villáskulcs, kábelvágó, iránytű, dőlésszögmérő
