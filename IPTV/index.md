@@ -48,9 +48,13 @@
 ## 3. Fejállomás beállítása és IPTV konfiguráció
 - **Jel osztása a fejállomás bemeneteire:**
   - **Multiplexek hozzárendelése:** Igen
+---
             - Multiplex D - 1 port
+---
             - Multiplex A - 2 port
+---
             - Multiplex E - 7 port
+---
             - Miskolc városi tv - 8 port
   - **DVB-T jel IP streamre konvertálása:** Igen
 - **Multicast IP tartomány:** [239.x.x.x]
