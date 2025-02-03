@@ -23,3 +23,8 @@
 <br />
 
 [Transzitor mérés jegyzőnöyve](https://noel-mercz.github.io/Meresijegyzokonyvek/tranzisztor_meres)
+
+<br />
+
+[IPTV mérés jegyzőnöyve](https://noel-mercz.github.io/Meresijegyzokonyvek/IPTV)
+
