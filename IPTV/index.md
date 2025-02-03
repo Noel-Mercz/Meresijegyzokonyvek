@@ -22,17 +22,17 @@
 ---
 
 ## 2. Antenna beállítása és jelmérés
-- **Adótorony:** Miskolc, Avasi adótorony
+- **Adótorony:** MiskolcTV, Avasi adótorony
 - **Multiplex adatok:**
   - **Frekvencia:** [MHz]
   - **Teljesítény:** [dB]
-  - **Polarizáció:** [Horizontális/Vertikális]
-  - **Adás típusa:** [DVB-T]
+  - **Polarizáció:** Horizontális
+  - **Adás típusa:** DVB-T
 - **Antenna pozíció:**
   - **Dőlésszög:** [°]
-  - **Irány:** [°]
+  - **Irány:** Dél-Nyugat 233°
 - **Mért jelszintek:**
-  - **Jelerősség:** [dBμV]
+  - **Jelerősség:** 52 dBu
   - **Jel-zaj viszony (SNR):** [dB]
   - **Bit Error Rate (BER):** [Érték]
   - **Modulation Error Ratio (MER):** [dB]
@@ -47,8 +47,12 @@
 
 ## 3. Fejállomás beállítása és IPTV konfiguráció
 - **Jel osztása a fejállomás bemeneteire:**
-  - **Multiplexek hozzárendelése:** [Igen/Nem]
-  - **DVB-T jel IP streamre konvertálása:** [Igen/Nem]
+  - **Multiplexek hozzárendelése:** Igen
+            - Multiplex D - 1 port
+            - Multiplex A - 2 port
+            - Multiplex E - 7 port
+            - Miskolc városi tv - 8 port
+  - **DVB-T jel IP streamre konvertálása:** Igen
 - **Multicast IP tartomány:** [239.x.x.x]
 - **IPTV Set-top box beállításai:**
   - **Hálózati kapcsolat:** [Beállítva/Nincs beállítva]
@@ -73,10 +77,9 @@
 ---
 
 ## 5. Összegzés és jegyzőkönyv lezárása
-- **Mérési eredmények alapján a rendszer megfelelően működik?** [Igen/Nem]
-- **Esetleges hibák és javaslatok:** [ ]
-- **Jegyzőkönyv lezárásának dátuma:** [Dátum]
-- **Vizsgálatot végző aláírása:** [Név]
+- **Mérési eredmények alapján a rendszer megfelelően működik?** Igen
+- **Jegyzőkönyv lezárásának dátuma:** 2025.02.03.
+- **Vizsgálatot végző aláírása:** Mercz Noel
 
 ---
 
